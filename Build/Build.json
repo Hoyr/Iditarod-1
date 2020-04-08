@@ -1,10 +1,11 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Iditarod-1-Dungeon",
+"productName": "Iditarod-2-Snake",
 "productVersion": "0.1",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
 "wasmFrameworkUrl": "Build.wasm.framework.unityweb",
+"wasmSymbolsUrl": "Build.wasm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
